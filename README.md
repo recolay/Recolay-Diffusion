@@ -34,8 +34,8 @@
 + 🔰 Has two languages, Persian and English
 
 ## Recolay Diffusion Beta [Screenshot]
-![](screenshot1.png)
-![](screenshot2.png)
-![](screenshot3.png)
-![](screenshot4.png)
-![](screenshot5.png)
+![](Screenshot1.PNG)
+![](Screenshot2.PNG)
+![](Screenshot3.PNG)
+![](Screenshot4.PNG)
+![](Screenshot5.PNG)
