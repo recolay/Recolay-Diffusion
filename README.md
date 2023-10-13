@@ -1,5 +1,5 @@
 <div align="center">
-[![Discord](https://img.shields.io/badge/RVC%20Developers-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4CBNuAS92p)
+[![Discord](https://www.mediafire.com/file/7yk6ddithbar5i1/discord.png)](https://discord.gg/4CBNuAS92p)
 
 </div>
 
